@@ -12,7 +12,6 @@ Computer with MATLAB software
 
 ![WhatsApp Image 2025-11-16 at 15 20 21_d159a2a8](https://github.com/user-attachments/assets/41686ada-4588-4862-8e73-e2097e3388f3)
 
-![WhatsApp Image 2025-11-16 at 15 20 21_7861d614](https://github.com/user-attachments/assets/ade524d0-9a0e-4e83-b6cb-b3c79047007e)
 
 ## Procedure:
 	Open MATLAB software
@@ -43,8 +42,9 @@ else
 end
 ```
 ## Output:
+<img width="1011" height="950" alt="image" src="https://github.com/user-attachments/assets/95cc5504-8dab-49b4-86b6-62934536a856" />
 
-<img width="1055" height="975" alt="image" src="https://github.com/user-attachments/assets/bd1578ec-3fae-4474-8462-abf0c6d23f8e" />
+
 
 ## Result:
 Thus the polar plot for the given transfer function was drawn and verified using MATLAB. <br>
